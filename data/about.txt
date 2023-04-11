@@ -3,6 +3,9 @@ The subjects of these descriptions can include things like behavior, habits, and
 All descriptions include their sources as an array of URLs
 
 JSON Format Example:
+
+// File must be saved as {taxonID}.json
+// Commit Comment should be the species scientific name for easy identification.
 {
   "data": [
     {
